@@ -1,7 +1,7 @@
 # sobre mim
 
 - 👋 Olá, meu nome é Oliver.
-- 👍 meu email de contato é oliver.stefanes@escola.pr.gov.br
+- 👍 meu email de contato é [email] (oliver.stefanes@escola.pr.gov.br)
 - 👀 eu estou interessado em aprender novas linguagens.
 - 🌱 eu estou aprendendo a programar recentemente na linguagem no JavaScript e Scratch
 
